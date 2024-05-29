@@ -1,0 +1,18 @@
+{
+    "huyen-gia-rai": [
+        {
+            "branch_name": "PGD Hộ Phòng",
+            "address": "239 QL1A, Khóm 2, phường Hộ Phòng, Thị xã Giá Rai, tỉnh Bạc Liêu"
+        }
+    ],
+    "thanh-pho-bac-lieu": [
+        {
+            "branch_name": "Chi nhánh Bạc Liêu",
+            "address": "14-15 Lô B đường Bà Triệu, phường 3 Thành phố Bạc Liêu, Tỉnh Bạc Liêu"
+        },
+        {
+            "branch_name": "PGD Phường 3",
+            "address": "Số 2 đường Hoàng Văn Thụ, phường 3, thành phố Bạc Liêu, tỉnh Bạc Liêu"
+        }
+    ]
+}

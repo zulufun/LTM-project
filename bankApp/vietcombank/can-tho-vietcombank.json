@@ -1,0 +1,58 @@
+{
+    "huyen-vinh-thanh": [
+        {
+            "branch_name": "PGD Lê Hồng Phong",
+            "address": "Số 2985 Ấp Phụng Quới A, Thị trấn Thạnh An, Huyện Vĩnh Thạnh, TP Cần Thơ"
+        }
+    ],
+    "quan-binh-thuy": [
+        {
+            "branch_name": "Chi nhánh Tây Đô",
+            "address": "Lô 30A7A, KCN Trà Nóc 1, phường Trà Nóc, Quận Bình Thủy, thành phố Cần Thơ"
+        },
+        {
+            "branch_name": "PGD Bình Thủy",
+            "address": "Ki ốt 55,57 đường Cách Mạng Tháng 8, phường An Thới, quận Bình Thủy, thành phố  Cần Thơ"
+        }
+    ],
+    "quan-cai-rang": [
+        {
+            "branch_name": "PGD Nam Cần Thơ",
+            "address": "Lô 20, KDC Phú An, Khu đô thị mới Nam sông Cần Thơ, phường Phú Thứ, quận Cái Răng, thành phố Cần Thơ"
+        },
+        {
+            "branch_name": "PGD Cái Răng",
+            "address": "164/2C Phạm Hùng, phường Lê Bình, quận Cái Răng, thành phố Cần Thơ"
+        }
+    ],
+    "quan-ninh-kieu": [
+        {
+            "branch_name": "Chi nhánh Cần Thơ",
+            "address": "Số 03-05-07 Hòa Bình, phường Tân An, quận Ninh Kiều, thành phố Cần Thơ"
+        },
+        {
+            "branch_name": "PGD Ninh Kiều",
+            "address": "49-51 Trần Văn Khéo, Phường Cái Khế, quận Ninh Kiều, thành phố Cần Thơ"
+        },
+        {
+            "branch_name": "PGD An Hòa",
+            "address": "67 Đường Mậu Thân, phường An Hòa, quận Ninh Kiều, thành phố Cần Thơ"
+        },
+        {
+            "branch_name": "PGD Hưng Lợi",
+            "address": "420-420A đường 30/4, phường Hưng Lợi, quận Ninh Kiều, thành phố Cần Thơ"
+        }
+    ],
+    "quan-o-mon": [
+        {
+            "branch_name": "PGD Ô Môn",
+            "address": "09 Quốc lộ 91, phường Châu Văn Liêm, quận Ô Môn, thành phố  Cần Thơ"
+        }
+    ],
+    "quan-thot-not": [
+        {
+            "branch_name": "PGD Thốt Nốt",
+            "address": "525 quốc lộ 91, khu vực Long Thạnh A, phường Thốt Nốt, quận Thốt Nốt, thành phố Cần Thơ"
+        }
+    ]
+}

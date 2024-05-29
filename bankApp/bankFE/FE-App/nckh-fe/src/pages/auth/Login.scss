@@ -1,0 +1,41 @@
+.login-main {
+    width: 328px;
+    min-width: 280px;
+    max-width: 75vw;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    padding: 32px 0px;
+    padding-inline: 32px;
+    padding-block: 103px;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.ant-pro-form-login-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    line-height: 44px;
+}
+
+.ant-pro-form-login-desc {
+    margin-block-start: 12px;
+    margin-block-end: 40px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+}
+
+.login_content {
+    background-image: url('https://mdn.alipayobjects.com/yuyan_qk0oxh/afts/img/V-_oS6r-i7wAAAAAAAAAAAAAFl94AQBr');
+    flex-direction: column;
+    height: 100vh;
+    overflow: auto;
+    background-size: 100% 100%;
+    -webkit-background-size: '100% 100%';
+}

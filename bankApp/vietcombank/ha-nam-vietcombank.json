@@ -1,0 +1,18 @@
+{
+    "huyen-duy-tien": [
+        {
+            "branch_name": "PGD Đồng Văn",
+            "address": "Nhà điều hành Khu công nghiệp Đồng Văn, thị trần Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam"
+        }
+    ],
+    "thanh-pho-phu-ly": [
+        {
+            "branch_name": "Chi nhánh Hà Nam",
+            "address": "Trung tâm Thương mai Dịch vụ Hải Hà, đường Lê Hoàn, phường Hai Bà Trưng, thành phố Phủ Lý, Hà Nam"
+        },
+        {
+            "branch_name": "PGD Phủ Lý",
+            "address": "Số 203 đường Nguyễn Văn Trỗi,Phường Hai Bà Trưng, TP Phủ Lý   tỉnh Hà Nam"
+        }
+    ]
+}

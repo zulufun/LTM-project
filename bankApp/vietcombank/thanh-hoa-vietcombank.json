@@ -1,0 +1,22 @@
+{
+    "huyen-tinh-gia": [
+        {
+            "branch_name": "PGD Tĩnh Gia",
+            "address": "Thôn Nam Yến, xã Hải Yến, huyện Tĩnh Gia, tỉnh Thanh Hóa"
+        }
+    ],
+    "thanh-pho-thanh-hoa": [
+        {
+            "branch_name": "Chi nhánh Thanh Hóa",
+            "address": "05 Phan Chu Trinh, phường Điện Biên, thành phố Thanh Hoá, tỉnh Thanh Hoá"
+        },
+        {
+            "branch_name": "PGD Lê Hoàn",
+            "address": "Số 05 Phan Chu Trinh, phường Điện Biên, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+        },
+        {
+            "branch_name": "PGD Nguyễn Trãi",
+            "address": "340 Nguyễn Trãi, phường Tân Sơn, thành phố Thanh Hóa, tỉnh Thanh Hóa"
+        }
+    ]
+}

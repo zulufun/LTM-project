@@ -1,0 +1,54 @@
+{
+    "quan-cam-le": [
+        {
+            "branch_name": "PGD Cẩm Lệ",
+            "address": "Số 189 đường Ông Ích Đường, phường Khuê Trung, quận Cẩm Lệ"
+        }
+    ],
+    "quan-hai-chau": [
+        {
+            "branch_name": "Chi nhánh Đà Nẵng",
+            "address": "140, 142 Lê Lợi, quận Hải Châu, thành phố Đà Nẵng."
+        },
+        {
+            "branch_name": "PGD Hải Châu",
+            "address": "87 đường Nguyễn Văn Linh, phường Nam Dương, quận Hải Châu, Đà Nẵng"
+        },
+        {
+            "branch_name": "PGD Hòa Thuận",
+            "address": "Số 574 đường Trưng Nữ Vương, phường Hòa Thuận Tây, quận Hải Châu, thành phố Đà Nẵng"
+        }
+    ],
+    "quan-lien-chieu": [
+        {
+            "branch_name": "PGD Hòa Khánh",
+            "address": "249A Nguyễn Lương Bằng, phường Hòa Khánh Bắc, quận Liên Chiểu, thành phố Đà Nẵng"
+        }
+    ],
+    "quan-ngu-hanh-son": [
+        {
+            "branch_name": "PGD Ngũ Hành Sơn",
+            "address": "153  đường Ngũ Hành Sơn, phường Mỹ An, quận Ngũ Hành Sơn, Đà Nẵng"
+        },
+        {
+            "branch_name": "Chi nhánh Nam Đà Nẵng",
+            "address": "Số 137 đường Ngũ Hành Sơn, phường Mỹ An, quận Ngũ Hành Sơn, thành phố Đà Nẵng"
+        }
+    ],
+    "quan-son-tra": [
+        {
+            "branch_name": "PGD Sơn Trà",
+            "address": "Số 445 Ngô Quyền, phường An Hải Bắc, quận Sơn Trà, thành phố Đà Nẵng"
+        }
+    ],
+    "quan-thanh-khe": [
+        {
+            "branch_name": "PGD Thanh Khê",
+            "address": "239 Điện Biên Phủ, quận Thanh Khê, thành phố Đà Nẵng"
+        },
+        {
+            "branch_name": "PGD Hùng Vương",
+            "address": "325 đường  Hùng Vương, quận Thanh Khê"
+        }
+    ]
+}

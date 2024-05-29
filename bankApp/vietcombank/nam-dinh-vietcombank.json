@@ -1,0 +1,24 @@
+{
+    "huyen-hai-hau": [
+        {
+            "branch_name": "PGD Hải Hậu",
+            "address": "TDP 1 TT Yên Định, Huyện Hải Hậu, tỉnh Nam Định"
+        }
+    ],
+    "huyen-y-yen": [
+        {
+            "branch_name": "PGD Ý Yên",
+            "address": "Ô M56 Cụm công nghiệp làng nghề TMDV phía Nam thị trấn Lâm, huyện Ý Yên, tỉnh Nam Định"
+        }
+    ],
+    "thanh-pho-nam-dinh": [
+        {
+            "branch_name": "Chi nhánh Nam Định",
+            "address": "Số 91 đường Quang Trung, phường Quang Trung, thành phố Nam Định"
+        },
+        {
+            "branch_name": "PGD Trần Hưng Đạo",
+            "address": "228 đường Trần Hưng Đạo, phường Bà Triệu,thành phố Nam Định"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "huyen-khoai-chau": [
+        {
+            "branch_name": "PGD Khoái Châu",
+            "address": "Quốc lộ 39A, Thôn Yên Lịch, xã Dân Tiến,Huyện Khoái Châu, tỉnh Hưng Yên"
+        }
+    ],
+    "huyen-my-hao": [
+        {
+            "branch_name": "Chi nhánh Hưng Yên",
+            "address": "Thị trấn Bần Yên Nhân, huyện Mỹ Hào, tỉnh Hưng Yên"
+        }
+    ],
+    "huyen-van-giang": [
+        {
+            "branch_name": "PGD Văn Giang",
+            "address": "Bưu điện Văn Phúc, Thị trấn Văn Giang, huyện Văn Giang, tỉnh Hưng Yên"
+        }
+    ],
+    "huyen-van-lam": [
+        {
+            "branch_name": "PGD Như Quỳnh",
+            "address": "Số 73 thị trấn Như Quỳnh, huyện Văn Lâm, tỉnh Hưng Yên"
+        }
+    ],
+    "huyen-yen-my": [
+        {
+            "branch_name": "PGD Yên Mỹ",
+            "address": "Tòa nhà điều hành - Khu công nghiệp Thăng Long II, huyện Yên Mỹ, tỉnh Hưng Yên"
+        }
+    ],
+    "thanh-pho-hung-yen": [
+        {
+            "branch_name": "PGD phố Hiến",
+            "address": "Số 186 đường Chu Mạnh Trinh, phường Hiến Nam, thành phố  Hưng Yên, tỉnh Hưng Yên"
+        },
+        {
+            "branch_name": "Chi nhánh Phố Hiến",
+            "address": "Số 186 đường Chu Mạnh Trinh, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên"
+        },
+        {
+            "branch_name": "Phố  Hiến",
+            "address": "186 đường Chu Mạnh Trinh, phường Hiến Nam, thành phố Hưng Yên, tỉnh Hưng Yên"
+        }
+    ]
+}

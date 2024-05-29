@@ -1,0 +1,20 @@
+{
+    "huyen-cang-long": [
+        {
+            "branch_name": "PGD Càng Long",
+            "address": "Khóm 5, thị trấn Càng Long, huyện Càng Long, tỉnh Trà Vinh"
+        }
+    ],
+    "huyen-tieu-can": [
+        {
+            "branch_name": "PGD Tiểu Cần",
+            "address": "Khóm 1, Thị trấn Tiểu Cần, huyện Tiểu Cần, tỉnh Trà Vinh"
+        }
+    ],
+    "thanh-pho-tra-vinh": [
+        {
+            "branch_name": "Chi nhánh Trà Vinh",
+            "address": "Số 28 Nguyễn Thị Minh Khai, P2, TP Trà Vinh, tỉnh Trà Vinh"
+        }
+    ]
+}

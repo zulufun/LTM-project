@@ -1,0 +1,56 @@
+{
+    "huyen-hoai-nhon": [
+        {
+            "branch_name": "PGD Bồng Sơn",
+            "address": "106 Quang Trung, thị trấn Bồng Sơn, huyện Hoài Nhơn, tỉnh  Bình Định."
+        }
+    ],
+    "huyen-phu-cat": [
+        {
+            "branch_name": "PGD Phù Cát",
+            "address": "Số 85-87 đường 3 Tháng 2, thị trấn Ngô Mây, huyện Phù Cát, tỉnh Bình Định"
+        }
+    ],
+    "huyen-tuy-phuoc": [
+        {
+            "branch_name": "PGD Diêu Trì.",
+            "address": "58 Trần Phú, Thị Trấn Diêu Trì, huyện Tuy Phước, tỉnh Bình Định."
+        }
+    ],
+    "thanh-pho-quy-nhon": [
+        {
+            "branch_name": "Chi nhánh Phú Tài",
+            "address": "Số 433 Lạc Long Quân,phường Trần Quang Diệu,TP. Quy Nhơn,tỉnh Bình Định."
+        },
+        {
+            "branch_name": "Phòng giao dịch Hùng Vương",
+            "address": "Số 199 đường Lê Hồng Phong, phường Lê Hồng Phong, thành phố Quy Nhơn, tỉnh Bình Định"
+        },
+        {
+            "branch_name": "Chi nhánh Quy Nhơn",
+            "address": "66C đường Lê Duẩn, phường Lý Thường Kiệt, thành phố Quy Nhơn, tỉnh Bình Định"
+        },
+        {
+            "branch_name": "PGD số 01",
+            "address": "775 Trần Hưng Đạo, thành phố Quy Nhơn tỉnh Bình Định."
+        },
+        {
+            "branch_name": "PGD Nguyễn Thái Học",
+            "address": "422 Nguyễn Thái Học, thành phố Quy Nhơn, tỉnh Bình Định."
+        },
+        {
+            "branch_name": "PGD Tây Sơn",
+            "address": "Kiốt số 5, Bến xe khách Bình Định đường Tây Sơn, thành phố Quy Nhơn, tỉnh Bình Định."
+        },
+        {
+            "branch_name": "PGD Lê Lợi",
+            "address": "Số 152, đường Lê Lợi, Tp Quy Nhơn, tỉnh Bình Định"
+        }
+    ],
+    "thi-xa-an-nhon": [
+        {
+            "branch_name": "PGD An Nhơn",
+            "address": "Số 256 Ngô Gia Tự, phường Bình Định, Thị xã An Nhơn, tỉnh Bình Định."
+        }
+    ]
+}

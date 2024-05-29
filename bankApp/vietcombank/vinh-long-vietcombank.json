@@ -1,0 +1,26 @@
+{
+    "huyen-binh-minh": [
+        {
+            "branch_name": "PGD Bình Minh",
+            "address": "169/15 đường Ngô Quyền, khóm 1, phường Cái Vồn, Thị xã Bình Minh,  tỉnh Vĩnh Long"
+        }
+    ],
+    "huyen-tam-binh": [
+        {
+            "branch_name": "PGD Tam Bình",
+            "address": "Số 17-18, Phan Văn Đáng, Khóm 3, tổ 18, thị trấn Tam Bình, huyện Tam Bình, tỉnh Vĩnh Long"
+        }
+    ],
+    "huyen-tra-on": [
+        {
+            "branch_name": "PGD Trà Ôn",
+            "address": "Số18D - 19D, đường Gia Long,  Khu 1, thị trấn Trà Ôn, huyện Trà Ôn, tỉnh Vĩnh Long"
+        }
+    ],
+    "thanh-pho-vinh-long": [
+        {
+            "branch_name": "Chi nhánh Vĩnh Long",
+            "address": "Số 1D và 1E Hoàng Thái Hiếu, phường 1, thành phố Vĩnh Long, tỉnh Vĩnh Long"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "huyen-binh-giang": [
+        {
+            "branch_name": "PGD Bình Giang",
+            "address": "Số 3-5 Phạm Ngũ Lão, Thị trấn Kẻ Sặt, Huyện Bình Giang, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-gia-loc": [
+        {
+            "branch_name": "PGD Gia Lộc",
+            "address": "Số 341 đường Nguyễn Chế Nghĩa, Thị trấn Gia Lộc, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-cam-giang": [
+        {
+            "branch_name": "PGD Phúc Điền",
+            "address": "Khu công nghiệp Phúc Điền, huyện Cẩm Giàng, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-kim-thanh": [
+        {
+            "branch_name": "PGD Kim Thành",
+            "address": "Thị xã Kim Thành, huyện Kim Thành, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-kinh-mon": [
+        {
+            "branch_name": "PGD Kinh Môn",
+            "address": "Khu Đô thị mới, Thị trấn Minh Tân, Huyện Kinh Môn, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-nam-sach": [
+        {
+            "branch_name": "PGD Nam Sách",
+            "address": "Thị trấn Nam Sách, huyện Nam Sách, tỉnh Hải Dương"
+        }
+    ],
+    "huyen-ninh-giang": [
+        {
+            "branch_name": "PGD Ninh Giang",
+            "address": "Thôn Quán Tranh, xã Đồng Tâm, Huyện Ninh Giang, Hải Dương"
+        }
+    ],
+    "huyen-thanh-ha": [
+        {
+            "branch_name": "PGD Thanh Hà",
+            "address": "Bưu điện Thanh Hà, khu 7 thị trấn Thanh Hà, huyện Thanh Hà, Hải Dương"
+        }
+    ],
+    "huyen-thanh-mien": [
+        {
+            "branch_name": "PGD Thanh Miện",
+            "address": "Số 512 đường Nguyễn Lương Bằng, thị trấn Thanh Miện, Huyện Thanh Miện, Hải Dương"
+        }
+    ],
+    "huyen-tu-ky": [
+        {
+            "branch_name": "PGD Tứ Kỳ",
+            "address": "Số 374 đường 391 Thị trấn Tứ Kỳ  huyện Tứ Kỳ, tỉnh Hải Dương"
+        }
+    ],
+    "thanh-pho-hai-duong": [
+        {
+            "branch_name": "Chi nhánh Hải Dương",
+            "address": "Số 66 Nguyễn Lương Bằng, thành phố Hải Dương, tỉnh Hải Dương"
+        },
+        {
+            "branch_name": "PGD số 1",
+            "address": "Số 11 Trần Hưng Đạo, thành phố Hải Dương, tỉnh Hải Dương"
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "Số 89 Bạch Đằng, thành phố Hải Dương, tỉnh Hải Dương"
+        },
+        {
+            "branch_name": "PGD Lê Thanh Nghị",
+            "address": "Số 673-675 Lê Thanh Nghị, thành phố Hải Dương, tỉnh Hải Dương"
+        },
+        {
+            "branch_name": "PGD Thanh Bình",
+            "address": "Số 243 Nguyễn Lương Bằng, thành phố Hải Dương, tỉnh Hải Dương"
+        }
+    ],
+    "thi-xa-chi-linh": [
+        {
+            "branch_name": "PGD Sao Đỏ",
+            "address": "số 1 đường Thái Học 1, Thị xã Chí Linh, tỉnh Hải Dương"
+        }
+    ]
+}

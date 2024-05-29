@@ -1,0 +1,82 @@
+{
+    "huyen-bau-bang": [
+        {
+            "branch_name": "PGD Bàu Bàng",
+            "address": "Lô A-17,A-18, Đường NC, Khu đô thị Bàu Bàng, xã Lai Uyên, huyện Bàu Bàng, tỉnh Bình Dương"
+        }
+    ],
+    "huyen-ben-cat": [
+        {
+            "branch_name": "Chi nhánh Bắc Bình Dương",
+            "address": "Lô D1-4-TT, đường NA3, khu công nghiệp Mỹ Phước 2,phường Mỹ Phước, thị xã Bến Cát, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Mỹ Phước",
+            "address": "Đường D1, Khu công nghiệp Mỹ Phước 1, huyện Bến Cát, tỉnh Bình Dương."
+        }
+    ],
+    "thi-xa-tan-uyen": [
+        {
+            "branch_name": "PGD Tân Uyên",
+            "address": "Số 01, ấp 4, phường Khánh Bình, thị xã Tân Uyên, tỉnh Bình Dương."
+        },
+        {
+            "branch_name": "PGD Tân Phước Khánh",
+            "address": "Số 35, đường DT746, Kp Hòa Thạnh, Phường Tân Phước Khánh, Thị Xã Tân Uyên, Tỉnh Bình Dương"
+        }
+    ],
+    "thanh-pho-thu-dau-mot": [
+        {
+            "branch_name": "Chi nhánh Bình Dương",
+            "address": "314 Đại lộ Bình Dương, phường Phú Hòa, thành phố Thủ Dầu Một, tỉnh Bình Dương."
+        },
+        {
+            "branch_name": "PGD Thủ Dầu Một",
+            "address": "Số 516 Cách mạng tháng 8,phường Phú Cường, thành phố Thủ Dầu Một, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Phú Chánh",
+            "address": "Ô số 24,25,26 lô H đường Đồng Khởi, phường Hòa Phú, Tp Thủ Dầu Một, tỉnh Bình Dương"
+        }
+    ],
+    "thi-xa-di-an": [
+        {
+            "branch_name": "Chi nhánh Nam Bình Dương",
+            "address": "Số 121, Đường ĐT 743B, khu phố Thống nhất 1, phường Dĩ An, thị xã Dĩ An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "Chi nhánh Sóng Thần",
+            "address": "Số 79/8  khu phố Bình Đường 2, phường An Bình, Thị xã Dĩ An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Đông Hòa",
+            "address": "Số 50/10 Khu phố Đông A, phường Đông Hòa, xã Dĩ An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Bình An",
+            "address": "Số nhà 264/4B, đường ĐT743 phường Tân Đông Hiệp, thị xã Dĩ An"
+        }
+    ],
+    "thi-xa-thuan-an": [
+        {
+            "branch_name": "PGD VSIP",
+            "address": "số 24 đại lộ Bình Dương, khu phố Bình Hòa, Phường Lái Thiêu, Thị xã Thuận An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Nguyễn Trãi",
+            "address": "Số C175, đường ĐT 745, khu phố Bình Đức 1, phường Lái Thiêu, thị xã Thuận An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Thuận An",
+            "address": "Đường ĐT 743, phường Bình Hòa, thị xã Thuận An, tỉnh Bình Dương"
+        },
+        {
+            "branch_name": "PGD Bắc Thuận An",
+            "address": "1/379 khu phố hòa Lân 1, phường Thuận Giáo, thị xã Thuận An, tỉnh Bình Dương."
+        },
+        {
+            "branch_name": "PGD Bình Phú",
+            "address": "Số 28/13 đường DT743, KP Bình Phước B, phường Bình Chuẩn, thị xã Thuận An"
+        }
+    ]
+}

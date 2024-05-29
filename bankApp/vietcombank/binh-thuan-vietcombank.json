@@ -1,0 +1,30 @@
+{
+    "huyen-tuy-phong": [
+        {
+            "branch_name": "PGD Liên Hương",
+            "address": "Số 61 đường 17/4, Thị trấn Liên Hương, huyện Tuy Phong, tỉnh Bình Thuận"
+        }
+    ],
+    "huyen-duc-linh": [
+        {
+            "branch_name": "PGD Đức Linh",
+            "address": "Đường 3 tháng 2, Khu phố 9, thị trấn Đức Tài, huyện Đức Linh, tỉnh Bình Thuận"
+        }
+    ],
+    "thi-xa-la-gi": [
+        {
+            "branch_name": "PGD La Gi",
+            "address": "379 đường Thống Nhất, thị xã La Gi, tỉnh Bình Thuận"
+        }
+    ],
+    "tp-phan-thiet": [
+        {
+            "branch_name": "Chi nhánh Bình Thuận",
+            "address": "187-189 Đại lộ Tôn Đức Thắng, phường Phú Thủy, Thành phố Phan Thiết, Tỉnh Bình Thuận"
+        },
+        {
+            "branch_name": "PGD Phan Thiết",
+            "address": "318 đường Trần Hưng Đạo, thành phố Phan Thiết, tỉnh Bình Thuận"
+        }
+    ]
+}

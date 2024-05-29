@@ -1,0 +1,32 @@
+{
+    "huyen-tan-thanh": [
+        {
+            "branch_name": "PGD số 3",
+            "address": "Lô E6- 1 Quốc Lộ 51, khu đô thị mới Phú Mỹ, huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu"
+        }
+    ],
+    "thanh-pho-ba-ria": [
+        {
+            "branch_name": "PGD số 2",
+            "address": "03 Trường Chinh, Phường Phước Trung, TP Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu"
+        }
+    ],
+    "thanh-pho-vung-tau": [
+        {
+            "branch_name": "Chi nhánh Vũng Tàu",
+            "address": "27 Trần Hưng Đạo, phường 1, thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu"
+        },
+        {
+            "branch_name": "PGD số 1",
+            "address": "30 Phạm Hồng Thái, phường 7, thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu"
+        },
+        {
+            "branch_name": "PGD Nguyễn Văn Trỗi",
+            "address": "169 Nguyễn Văn Trỗi, phường 4, thành phố  Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu"
+        },
+        {
+            "branch_name": "PGD Lê Lợi",
+            "address": "Số 27 Lê Lợi, phường 4, thành phố Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu"
+        }
+    ]
+}

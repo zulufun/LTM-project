@@ -1,0 +1,26 @@
+{
+    "thi-xa-hong-ngu": [
+        {
+            "branch_name": "PGD Hồng Ngự",
+            "address": "Số 44-46, đường Võ Văn Kiệt, phường An Thạnh, thị xã Hồng Ngự, tỉnh Đồng Tháp."
+        }
+    ],
+    "huyen-lap-vo": [
+        {
+            "branch_name": "PGD Lấp Vò",
+            "address": "303 Đường 3/2, thị trấn Lấp Vò, huyện Lấp Vò, tỉnh Đồng Tháp."
+        }
+    ],
+    "thanh-pho-cao-lanh": [
+        {
+            "branch_name": "Chi nhánh Đồng Tháp",
+            "address": "66 Đường 30/4, phường 1, thành phố Cao Lãnh, tỉnh Đồng Tháp."
+        }
+    ],
+    "thi-xa-sa-dec": [
+        {
+            "branch_name": "PGD Sa Đéc",
+            "address": "Số 289 đường Hùng Vương, phường 1, thị xã Sa Đéc, tỉnh Đồng Tháp."
+        }
+    ]
+}

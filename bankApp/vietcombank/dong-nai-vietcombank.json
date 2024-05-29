@@ -1,0 +1,98 @@
+{
+    "huyen-long-thanh": [
+        {
+            "branch_name": "PGD Long Thành",
+            "address": "B14-B15 Khu nhà Mơ Ước, thị trấn Long Thành, huyện Long Thành, Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Tam Phước",
+            "address": "Số 401 ấp Long Đức 3, xã Tam Phước, huyện Long Thành, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Phước Thái",
+            "address": "Số 186, tổ 7, ấp 1A, quốc lộ 51, xã Phước Thái, huyện Long Thành, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Lộc An",
+            "address": "Số 1429 đường 51B, Tổ 3, Ấp Hàng Gòn, xã Lộc An, huyện Long Thành, tỉnh Đồng Nai."
+        }
+    ],
+    "huyen-nhon-trach": [
+        {
+            "branch_name": "Chi nhánh Nhơn Trạch",
+            "address": "Đường Nguyễn Hữu Cảnh, ấp Xóm Hố, xã Phú Hội, huyện Nhơn Trạch, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Hiệp Phước",
+            "address": "Đường Tôn Đức Thắng, KCN Nhơn Trạch 3, Huyện Nhơn Trạch, tỉnh Đồng Nai."
+        }
+    ],
+    "huyen-thong-nhat": [
+        {
+            "branch_name": "PGD Gia Kiệm",
+            "address": "Số D1/045 Quốc lộ 20, ấp Nam Sơn, xã Quang Trung, huyện Thống Nhất, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Gia Kiệm",
+            "address": "Số D1/045 Quốc lộ 20, ấp Nam Sơn, xã Quang Trung, huyện Thống Nhất, Tỉnh Đồng Nai"
+        }
+    ],
+    "huyen-trang-bom": [
+        {
+            "branch_name": "PGD Trảng Bom",
+            "address": "B25 đường 29/4, khu phố 5, thị trấn Trảng Bom, huyện Trảng Bom, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Hố Nai",
+            "address": "Số 163, Quốc lộ 1, xã Hố Nai 3, huyện Trảng Bom, tỉnh Đồng Nai"
+        }
+    ],
+    "thanh-pho-bien-hoa": [
+        {
+            "branch_name": "Chi nhánh Biên Hoà",
+            "address": "Số 22, đường 3A, Khu công nghiệp Biên hoà 02, Biên hoà, Đồng Nai"
+        },
+        {
+            "branch_name": "PGD KCN AMATA",
+            "address": "tầng trệt, Trung tâm Dịch vụ KCN AMATA, phường Bình Long, Thành phố Biên Hòa"
+        },
+        {
+            "branch_name": "PGD Tân Mai",
+            "address": "Số 41/203 và 41/203A, đường Phạm Văn Thuận, thành phố Biên hoà, Đồng nai"
+        },
+        {
+            "branch_name": "PGD Long Bình Tân",
+            "address": "Số 5F, Quốc Lộ 51, Kp1, phường Long Bình Tân, Tp Biên Hòa"
+        },
+        {
+            "branch_name": "Chi nhánh Đồng Nai",
+            "address": "Số 53-55 đường Võ Thị Sáu, phường Quyết Thắng, thành phố Biên Hòa, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Số 1",
+            "address": "Số 79, đường Hưng Đạo Vương, khu phố 4, phường Trung Dũng, thành phố Biên Hòa, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Chợ Sặt",
+            "address": "47A/5- 47B/5, KP1, phường Tân Biên, thành phố  Biên Hòa, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Tân Phong",
+            "address": "14C, đường Đồng Khởi, phường Tân Phong, thành phố Biên Hòa, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "PGD Tân Biên",
+            "address": "Số 97/5 Quốc lộ 1, Khu phố 9, phường Tân Biên, Tp Biên Hòa"
+        }
+    ],
+    "thi-xa-long-khanh": [
+        {
+            "branch_name": "PGD Long Khánh",
+            "address": "391A đường Hùng Vương, phường Xuân Hòa, thị xã Long Khánh, tỉnh Đồng Nai"
+        },
+        {
+            "branch_name": "Chi nhánh Long Khánh",
+            "address": "Số 165 đường Nguyễn Văn Cừ, phường Xuân An, Thị xã Long Khánh, Tỉnh Đồng Nai"
+        }
+    ]
+}

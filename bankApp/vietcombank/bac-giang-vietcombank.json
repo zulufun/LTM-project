@@ -1,0 +1,24 @@
+{
+    "huyen-luc-ngan": [
+        {
+            "branch_name": "PGD Chũ",
+            "address": "Số 296, quốc lộ 31, khu Trần Phú, thị trấn Chũ, huyện Lục Ngạn, tỉnh Bắc Giang"
+        }
+    ],
+    "huyen-viet-yen": [
+        {
+            "branch_name": "PGD Khu Công Nghiệp Đình Trám",
+            "address": "Trụ sở Viễn thông Khu công nghiệp Đình Trám, xã Hoàng Ninh và xã Hồng Thái, huyện Việt Yên"
+        }
+    ],
+    "thanh-pho-bac-giang": [
+        {
+            "branch_name": "Bắc Giang",
+            "address": "Số 179 đường Hùng Vương, thành phố Bắc Giang, tỉnh Bắc Giang"
+        },
+        {
+            "branch_name": "PGD Khu Công nghiệp Song Khê - Nội Hoàng",
+            "address": "Khu Công nghiệp Song Khê - Nội Hoàng, Thành phố Bắc Giang, tỉnh Bắc Giang"
+        }
+    ]
+}

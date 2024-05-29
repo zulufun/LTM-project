@@ -1,0 +1,18 @@
+{
+    "thanh-pho-ninh-binh": [
+        {
+            "branch_name": "Chi nhánh Ninh Bình",
+            "address": "Số 872 Trần Hưng Đạo, phường Tân Thành, Thành phố Ninh Bình"
+        },
+        {
+            "branch_name": "PGD Ninh Sơn",
+            "address": "Số 874 Nguyễn Công Trứ, phường Ninh Sơn, thành phố Ninh Bình, tỉnh Ninh Bình"
+        }
+    ],
+    "thi-xa-tam-diep": [
+        {
+            "branch_name": "PGD Tam Điệp",
+            "address": "Số 241, tổ 9, phường Trung Sơn, thành phố Tam Điệp, tỉnh Ninh Bình"
+        }
+    ]
+}

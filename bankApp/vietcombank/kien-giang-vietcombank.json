@@ -1,0 +1,44 @@
+{
+    "huyen-chauthanh": [
+        {
+            "branch_name": "PGD Tắc Cậu",
+            "address": "Số 434 Quốc lộ 63, xã Bình An, huyện Châu Thành, tỉnh Kiên Giang"
+        }
+    ],
+    "huyen-kien-luong": [
+        {
+            "branch_name": "PGD Ba Hòn",
+            "address": "Nền 19-20 Lô L1 Đường số 6( Quốc lộ 80) - Khu phố Ba Hòn, Thị trấn Kiên Lương, huyện Kiên Lương"
+        }
+    ],
+    "huyen-phu-quoc": [
+        {
+            "branch_name": "PGD Phú Quốc",
+            "address": "Số 1A, đường Hùng Vương, khu phố 1, thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang."
+        },
+        {
+            "branch_name": "Chi nhánh Phú Quốc",
+            "address": "Số 1A đường Hùng Vương, khu phố 1, thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang"
+        }
+    ],
+    "thanh-pho-rach-gia": [
+        {
+            "branch_name": "Chi nhánh Kiên Giang",
+            "address": "Số 89 đường 3 tháng 2, phường Vĩnh Bảo, thành phố Rạch Giá, Kiên Giang"
+        },
+        {
+            "branch_name": "PGD Rạch Sỏi",
+            "address": "Lô 05, Căn 10-11 đường Mai Thị Hồng Hạnh, phường Rạch Sỏi, Tp Rạch Giá"
+        },
+        {
+            "branch_name": "PGD Rạch Giá",
+            "address": "Số 02 đường Mạc Cửu, phường Vĩnh Thành, Thành phố Rạch Giá"
+        }
+    ],
+    "thi-xa-ha-tien": [
+        {
+            "branch_name": "PGD Hà Tiên",
+            "address": "04 Phương Thành, khu phố 2, phường Đông Hồ, thị xã Hà Tiên, tỉnh Kiên Giang"
+        }
+    ]
+}

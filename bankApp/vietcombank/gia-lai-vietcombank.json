@@ -1,0 +1,36 @@
+{
+    "huyen-chu-se": [
+        {
+            "branch_name": "PGD Chư Sê",
+            "address": "Số 804 đường Hùng Vương, thị trấn Chư Sê, huyện Chư Sê, tỉnh Gia Lai"
+        }
+    ],
+    "thanh-pho-pleiku": [
+        {
+            "branch_name": "Chi nhánh Gia lai",
+            "address": "Số 33 đường Quang Trung, phường Hội Thương, Thành phố Pleiku, tỉnh Gia Lai"
+        },
+        {
+            "branch_name": "PGD  Trần Phú",
+            "address": "92 Trần Phú, thành phố Pleiku, tỉnh Gia Lai"
+        },
+        {
+            "branch_name": "PGD  Biển Hồ",
+            "address": "737 Phạm Văn Đồng, thành phố Pleiku, tỉnh Gia Lai"
+        },
+        {
+            "branch_name": "PGD  Hoa Lư",
+            "address": "Số 03 đường Nguyễn Tất Thành,phường Hoa Lư, thành phố Pleiku"
+        },
+        {
+            "branch_name": "PGD Trà Bá",
+            "address": "Số 133 đường Trường Chinh, phường Trà Bá, Tp Pleiku, tỉnh Gia Lai"
+        }
+    ],
+    "thi-xa-an-khe": [
+        {
+            "branch_name": "PGD  An khê",
+            "address": "01 Hai Bà Trưng, thị xã An Khê, tỉnh Gia Lai"
+        }
+    ]
+}

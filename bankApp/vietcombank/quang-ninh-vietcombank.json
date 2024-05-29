@@ -1,0 +1,82 @@
+{
+    "huyen-hai-ha": [
+        {
+            "branch_name": "PGD Hải Hà",
+            "address": "Số 66 phố Trần Bình Trọng, thị trấn Quảng Hà, Huyện Hải Hà, tỉnh Quảng Ninh"
+        }
+    ],
+    "huyen-hoanh-bo": [
+        {
+            "branch_name": "PGD Hoành Bồ",
+            "address": "Số nhà 8 - Tổ 6 - Khu 3, thị trấn Trới, huyện Hoành Bồ, tỉnh Quảng Ninh"
+        }
+    ],
+    "huyen-tien-yen": [
+        {
+            "branch_name": "PGD Tiên Yên",
+            "address": "Số 04 phố Thống Nhất, thị trấn Tiên Yên, huyện Tiên Yên, tỉnh Quảng Ninh"
+        }
+    ],
+    "huyen-dong-trieu": [
+        {
+            "branch_name": "PGD Mạo Khê",
+            "address": "Số 161 đường Hoàng Hoa Thám, thị trấn Mạo Khê, huyện Đông Triều, tỉnh Quảng Ninh"
+        }
+    ],
+    "thanh-pho-cam-pha": [
+        {
+            "branch_name": "PGD Cẩm Phả",
+            "address": "Số 168 Trần Phú, Thị xã Cẩm Phả, Quảng Ninh."
+        },
+        {
+            "branch_name": "PGD Cửa Ông",
+            "address": "Số 441, tổ 58, khu 5B, phường Cửa Ông, thị xã Cẩm Phả"
+        },
+        {
+            "branch_name": "PGD Trần Phú",
+            "address": "Số 513-515 Tổ 79, Khu 5, phường Cẩm Trung, thành phố Cẩm Phả"
+        }
+    ],
+    "thanh-pho-ha-long": [
+        {
+            "branch_name": "Chi nhánh Hạ Long",
+            "address": "166 Đường Hạ Long, phường Bãi Cháy, thành phố Hạ Long, tỉnh Quảng Ninh."
+        },
+        {
+            "branch_name": "Chi nhánh Quảng Ninh",
+            "address": "Đường 25/4 Phường Bạch Đằng, thành phố  Hạ Long, Quảng Ninh"
+        },
+        {
+            "branch_name": "PGD Bạch Đằng",
+            "address": "Số 158B Lê Thánh Tông, phường Bạch Đằng, Hạ Long, Quảng Ninh"
+        },
+        {
+            "branch_name": "PGD Hồng Hải",
+            "address": "Số 550- 554 Nguyễn Văn Cừ, phường Hồng Hải, thành phố Hạ Long, tỉnh Quảng Ninh"
+        },
+        {
+            "branch_name": "PGD Lê Thánh Tông",
+            "address": "Số 703 đường Lê Thánh Tông, phường Bạch Đằng, thành phố Hạ Long, tỉnh Quảng Ninh"
+        }
+    ],
+    "thanh-pho-mong-cai": [
+        {
+            "branch_name": "Chi nhánh Móng Cái",
+            "address": "Số 05 Đường Hùng Vương, phường Trần Phú, thành phố Móng Cái, tỉnh Quảng Ninh"
+        },
+        {
+            "branch_name": "PGD Hùng Vương",
+            "address": "Số 02, đường Vân Đồn, phường Trần Phú, thành phố Móng Cái, tỉnh Quảng Ninh"
+        }
+    ],
+    "thanh-pho-uong-bi": [
+        {
+            "branch_name": "PGD Uông Bí",
+            "address": "Tổ 7, Khu 1, phường Yên Thanh, Thị xã  Uông Bí, Quảng Ninh."
+        },
+        {
+            "branch_name": "PGD Quang Trung",
+            "address": "số 496  đường Quang Trung, phường Quang Trung thị xã Uông Bí, tỉnh Quảng Ninh"
+        }
+    ]
+}

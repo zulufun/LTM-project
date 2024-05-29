@@ -1,0 +1,28 @@
+{
+    "huyen-vinh-linh": [
+        {
+            "branch_name": "PGD Vĩnh Linh",
+            "address": "Đường Lê Duẩn, Quốc lộ 1A, thị trấn Hồ Xá, huyện Vĩnh Linh, Quảng Trị"
+        }
+    ],
+    "thanh-pho-dong-ha": [
+        {
+            "branch_name": "Quảng Trị",
+            "address": "51 Trần Hưng Đạo, thành phố Đông Hà, tỉnh Quảng Trị"
+        },
+        {
+            "branch_name": "PGD Đông Hà",
+            "address": "Số 147 Lê Duẩn, thành phố Đông Hà, tỉnh Quảng Trị"
+        },
+        {
+            "branch_name": "PGD Đông Hà",
+            "address": "Số 94 quốc lộ 9, thành phố Đông Hà, tỉnh Quảng Trị"
+        }
+    ],
+    "thi-xa-quang-tri": [
+        {
+            "branch_name": "PGD TX Quảng Trị",
+            "address": "136A, đường Trần Hưng Đạo, TX Quảng Trị, tỉnh Quảng Trị"
+        }
+    ]
+}

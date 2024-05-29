@@ -1,0 +1,50 @@
+{
+    "thanh-pho-buon-ma-thuot": [
+        {
+            "branch_name": "Chi nhánh DAKLAK",
+            "address": "Số 06 Trần Hưng Đạo, thành phố  Buôn Ma Thuột, Daklak"
+        },
+        {
+            "branch_name": "PGD Tất Thành",
+            "address": "302 Nguyễn Tất Thành, thành phố  Buôn Ma Thuột, Daklak"
+        },
+        {
+            "branch_name": "PGD Số 3",
+            "address": "560 đường Lê Duẩn,phường Eatam  thành phố  Buôn Ma Thuột, Daklak"
+        },
+        {
+            "branch_name": "PGD Hùng Vương",
+            "address": "03 Đinh Tiên Hoàng, thành phố  Buôn Ma Thuột, Daklak"
+        },
+        {
+            "branch_name": "PGD Thuận Hoà",
+            "address": "Km9, Quốc lộ 14, xã Hoà Thuận, thành phố  Buôn Ma Thuột, Daklak"
+        },
+        {
+            "branch_name": "PGD Tân Lợi",
+            "address": "Số B18 đường Lê Thánh Tông, phường Tân Lợi, thành phố Buôn Ma Thuột, tỉnh ĐăkLăk"
+        },
+        {
+            "branch_name": "PGD Quang Trung",
+            "address": "30 đường Quang Trung, phường Thắng Lợi, Tp Buôn Ma Thuột, tỉnh Đak lak"
+        }
+    ],
+    "thi-xa-buon-ho": [
+        {
+            "branch_name": "PGD Buôn Hồ",
+            "address": "149 Trần Hưng Đạo, Thị xã Buôn Hồ, Daklak"
+        }
+    ],
+    "huyen-cu-kuin": [
+        {
+            "branch_name": "PGD Quảng Phú",
+            "address": "số 103 đường Hùng Vương, thị trấn Quảng Phú, huyện CưMgar, tỉnh Đăk Lak"
+        }
+    ],
+    "huyen-ea-kar": [
+        {
+            "branch_name": "PGD Eakar",
+            "address": "146 Nguyễn Tất Thành, Thị trấn Eakar, huyện Eakar, tỉnh Đak lak"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "huyen-cam-xuyen": [
+        {
+            "branch_name": "PGD Cẩm Xuyên",
+            "address": "Số 149 Hà Huy Tập, Thị trấn Cẩm Xuyên, huyện Cẩm Xuyên, tỉnh Hà Tĩnh"
+        }
+    ],
+    "huyen-can-loc": [
+        {
+            "branch_name": "PGD Can Lộc",
+            "address": "Số 14 Nguyễn Thiếp, thị trấn Nghèn, huyện Can Lộc, tỉnh Hà Tĩnh"
+        }
+    ],
+    "huyen-huong-son": [
+        {
+            "branch_name": "PGD Hương Sơn",
+            "address": "Khối 4 - Thị trấn Tây Sơn, huyện Hương Sơn, tỉnh Hà Tĩnh"
+        }
+    ],
+    "huyen-ky-anh": [
+        {
+            "branch_name": "PGD Kỳ Anh",
+            "address": "Tổ dân phố số 3,phường Sông Trí, thị xã Kỳ Anh, tỉnh Hà Tĩnh"
+        },
+        {
+            "branch_name": "PGD Vũng Áng",
+            "address": "Tổ dân phố Liên Phú, phường Kỳ Liên, thị xã Kỳ Anh, tỉnh Hà Tĩnh"
+        }
+    ],
+    "huyen-nghi-xuan": [
+        {
+            "branch_name": "PGD Nghi Xuân",
+            "address": "Khối 1, thị trấn Xuân An huyện Nghi Xuân tỉnh Hà Tĩnh"
+        }
+    ],
+    "huyen-duc-tho": [
+        {
+            "branch_name": "PGD Đức Thọ",
+            "address": "Khối 5 Thị trấn Đức Thọ, huyện Đức Thọ, tỉnh Hà Tĩnh"
+        }
+    ],
+    "thanh-pho-ha-tinh": [
+        {
+            "branch_name": "Chi nhánh HÀ TĨNH",
+            "address": "Số 2 đường Nguyễn Thị Minh Khai, phường Trần Phú, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+        },
+        {
+            "branch_name": "PGD Tân Giang",
+            "address": "63 Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+        },
+        {
+            "branch_name": "PGD Phan Đình Phùng",
+            "address": "Số 11 Phan Đình Phùng, thành phố Hà Tĩnh, tỉnh Hà Tĩnh"
+        }
+    ],
+    "thi-xa-hong-linh": [
+        {
+            "branch_name": "Chi nhánh Bắc Hà Tĩnh",
+            "address": "52 Trần Phú, thị xã Hồng Lĩnh, tỉnh Hà Tĩnh"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "huyen-ninh-son": [
+        {
+            "branch_name": "PGD Ninh Sơn",
+            "address": "Thị trấn Tân Sơn, huyện Ninh Sơn, tỉnh Ninh Thuận"
+        }
+    ],
+    "thanh-pho-phan-rang": [
+        {
+            "branch_name": "Chi nhánh Ninh Thuận",
+            "address": "Số 47 đường 16/4, phường Kinh Dinh, thành phố Phan Rang - Tháp Chàm, tỉnh Ninh Thuận"
+        },
+        {
+            "branch_name": "PGD Tháp Chàm",
+            "address": "669 đường 21/8, phường Bảo An, Thành phố Phan Rang - Tháp Chàm, tỉnh Ninh Thuận"
+        }
+    ]
+}

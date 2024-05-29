@@ -1,0 +1,24 @@
+{
+    "thi-xa-ba-don": [
+        {
+            "branch_name": "PGD Quảng Trạch",
+            "address": "Số 39 đường Hùng Vương, Khu phố 2, Phường Ba Đồn, Thị xã Ba Đồn"
+        }
+    ],
+    "huyen-le-thuy": [
+        {
+            "branch_name": "PGD Lệ Thuỷ",
+            "address": "Tổ dân phố 6, Thị trấn Kiến Giang, huyện Lệ Thuỷ, tỉnh Quảng Bình"
+        }
+    ],
+    "thanh-pho-dong-hoi": [
+        {
+            "branch_name": "Chi nhánh Quảng Bình",
+            "address": "Số 03 Lý Thường Kiệt, phường Hải Đình, Đồng Hới, Quảng Bình."
+        },
+        {
+            "branch_name": "PGD Đồng Hới",
+            "address": "Tiểu khu 9 phường Nam Lý, thành phố Đồng Hới, Quảng Bình"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "huyen-binh-son": [
+        {
+            "branch_name": "Chi nhánh Dung Quất",
+            "address": "Khu công nghiệp Đông Dung Quất, Khu  kinh tế Dung Quất, huyện Bình Sơn, tỉnh Quảng Ngãi."
+        },
+        {
+            "branch_name": "PGD Bình Sơn",
+            "address": "Quốc lộ 1A, thị trấn Châu Ổ, huyện Bình Sơn, tỉnh Quảng Ngãi."
+        }
+    ],
+    "huyen-nghia-hanh": [
+        {
+            "branch_name": "PGD Nghĩa Hành",
+            "address": "Thôn Phú Vĩnh Trung, Thị trấn Chợ Chùa, huyện Nghĩa Hành, tỉnh Quảng Ngãi"
+        }
+    ],
+    "huyen-tu-nghia": [
+        {
+            "branch_name": "PGD Sông Vệ",
+            "address": "Quốc lộ 1A, thị trấn Sông Vệ, huyện Tư Nghĩa, tỉnh Quảng Ngãi"
+        }
+    ],
+    "huyen-duc-pho": [
+        {
+            "branch_name": "PGD Đức Phổ",
+            "address": "Số 266 Nguyễn Nghiêm, thị trấn Đức Phổ, huyện Đức Phổ, tỉnh Quảng Ngãi"
+        }
+    ],
+    "thanh-pho-quang-ngai": [
+        {
+            "branch_name": "PGD Quang Trung",
+            "address": "Số 659 Quang Trung, phường Nghĩa Chánh, thành phố Quảng Ngãi, tỉnh Quảng Ngãi"
+        },
+        {
+            "branch_name": "Chi nhánh Quảng Ngãi",
+            "address": "345 Hùng Vương, thành phố Quảng Ngãi, tỉnh Quảng Ngãi"
+        },
+        {
+            "branch_name": "PGD  Hùng Vương",
+            "address": "53 Hùng Vương, thành phố Quảng Ngãi, tỉnh Quảng Ngãi"
+        },
+        {
+            "branch_name": "PGD Sơn Tịnh",
+            "address": "Tổ dân phố 2, Phường Trương Quang Trọng, TP Quảng Ngãi, tỉnh Quảng Ngãi"
+        }
+    ]
+}

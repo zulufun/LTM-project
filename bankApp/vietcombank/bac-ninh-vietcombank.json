@@ -1,0 +1,40 @@
+{
+    "huyen-thuan-thanh": [
+        {
+            "branch_name": "PGD Thuận Thành",
+            "address": "Thửa đất số 20, Quốc lộ 38, thị trấn Hồ, huyện Thuận Thành, tỉnh Bắc Ninh"
+        }
+    ],
+    "huyen-que-vo": [
+        {
+            "branch_name": "PGD Số 2",
+            "address": "Lô G1 Khu công nghiệp Quế Võ, huyện Quế Võ, tỉnh Bắc Ninh"
+        }
+    ],
+    "huyen-yen-phong": [
+        {
+            "branch_name": "PGD Yên Phong",
+            "address": "Lô CC1, đường YP2, Khu công nghiệp Yên Phong, huyện Yên Phong, tỉnh Bắc Ninh."
+        },
+        {
+            "branch_name": "PGD Sam Sung",
+            "address": "Công ty Sam Sung Electronic Việt Nam, Khu công nghiệp Yên Phong, Yên Trung, tỉnh Bắc Ninh"
+        }
+    ],
+    "thanh-pho-bac-ninh": [
+        {
+            "branch_name": "Chi nhánh Bắc Ninh.",
+            "address": "Ngã 6 phường Đại Phúc, thành phố Bắc Ninh, tỉnh Bắc Ninh."
+        }
+    ],
+    "thi-xa-tu-son": [
+        {
+            "branch_name": "PGD Số 1",
+            "address": "Số 93 Phố Mới, phường Đồng Nguyên, thị xã Từ Sơn, tỉnh Bắc Ninh"
+        },
+        {
+            "branch_name": "PGD Khu công nghiệp, đô thị và dịch vụ VSIP Bắc Ninh",
+            "address": "11 Đại lộ Hữu Nghị, Khu công nghiệp, đô thị và dịch vụ VSIP Bắc Ninh, xã Phù Chuẩn, Thị xã Từ Sơn"
+        }
+    ]
+}

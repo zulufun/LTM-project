@@ -1,0 +1,40 @@
+{
+    "huyen-chau-thanh": [
+        {
+            "branch_name": "PGD Tứ giác Long Xuyên",
+            "address": "Lô A đường số 5, Khu dân cư mới xã Vĩnh Nhuận, H.Châu Thành, An Giang"
+        }
+    ],
+    "huyen-tan-chau": [
+        {
+            "branch_name": "PGD Tân Châu",
+            "address": "Số 12 Hai Bà Trưng, Long Thạnh A, Tân Châu, An Giang"
+        }
+    ],
+    "huyen-tinh-bien": [
+        {
+            "branch_name": "PGD Tịnh Biên",
+            "address": "Số 350/7 khóm Xuân Hòa, thị trấn Tịnh Biên, huyện Tịnh Biên, An Giang"
+        }
+    ],
+    "thanh-pho-long-xuyen": [
+        {
+            "branch_name": "Chi nhánh An Giang",
+            "address": "30-32 Hai Bà Trưng, P.Mỹ Long, thành phố Long Xuyên, An Giang"
+        },
+        {
+            "branch_name": "PGD Trung tâm Thương mại Long Xuyên",
+            "address": "12 Nguyễn Huệ A, P.Mỹ Long, thành phố Long Xuyên, An Giang"
+        },
+        {
+            "branch_name": "PGD Vàm Cống",
+            "address": "Số 91 Quốc lộ 91, phường Mỹ Thạnh, thành phố Long Xuyên, tỉnh An Giang"
+        }
+    ],
+    "thanh-pho-chau-doc": [
+        {
+            "branch_name": "Chi nhánh Châu Đốc",
+            "address": "Số 55 Lê Lợi, phường Châu Phú B, thành phố Châu Đốc, tỉnh An Giang"
+        }
+    ]
+}

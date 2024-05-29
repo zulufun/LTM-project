@@ -1,0 +1,28 @@
+{
+    "huyen-cai-lay": [
+        {
+            "branch_name": "PGD Cai Lậy",
+            "address": "Số 38B đường 868, khu phố 1, thị trấn Cai Lậy, huyện Cai Lậy, tỉnh Tiền Giang"
+        },
+        {
+            "branch_name": "PGD Cái Bè",
+            "address": "Số 262, ấp 5, xã Phú An, huyện Cai Lậy, tỉnh Tiền Giang"
+        }
+    ],
+    "thanh-pho-my-tho": [
+        {
+            "branch_name": "Chi nhánh Tiền Giang",
+            "address": "Số 152 Đinh Bộ Lĩnh, phường 2, thành phố Mỹ Tho"
+        },
+        {
+            "branch_name": "PGD Mỹ Tho",
+            "address": "Số 20-20A đường Lý Thường Kiệt, Phường 6, thành phố Mỹ Tho, tỉnh Tiền Giang"
+        }
+    ],
+    "thi-xa-go-cong": [
+        {
+            "branch_name": "PGD Gò Công",
+            "address": "327 - 328 Võ Duy Linh, phường 1 Thị xã Gò Công, Tiền Giang"
+        }
+    ]
+}

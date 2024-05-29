@@ -1,0 +1,50 @@
+{
+    "huyen-dien-chau": [
+        {
+            "branch_name": "PGD Diễn Châu",
+            "address": "Kiot số 4 - Trung tâm Thương mại Mường Thanh, Thị trấn Diễn Châu, huyện Diễn Châu, tỉnh Nghệ An"
+        }
+    ],
+    "thanh-pho-vinh": [
+        {
+            "branch_name": "Chi nhánh Trung Đô",
+            "address": "Số 09 Nguyễn Sỹ Sách, phường Hà Huy Tập, thành phố Vinh, tỉnh Nghệ An"
+        },
+        {
+            "branch_name": "PGD Quán Bàu",
+            "address": "Số 58 đường Nguyễn Trãi, thành phố Vinh, tỉnh Nghệ An"
+        },
+        {
+            "branch_name": "Chi nhánh Vinh",
+            "address": "Số 21 đường Quang Trung, Thành phố Vinh, Nghệ An"
+        },
+        {
+            "branch_name": "PGD số 1",
+            "address": "Số 68B đường Nguyễn Sỹ Sách, TP Vinh, tỉnh Nghệ An"
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "Số 205 Lê Duẩn, thành phố Vinh, tỉnh Nghệ An"
+        },
+        {
+            "branch_name": "PGD Chợ Vinh",
+            "address": "Số 48 đường Thái Phiên, thành phố Vinh, tỉnh Nghệ An"
+        },
+        {
+            "branch_name": "PGD Hưng Dũng",
+            "address": "Số 39 đường Nguyễn Phong Sắc,Thành phố Vinh, tỉnh Nghệ An"
+        }
+    ],
+    "thi-xa-cua-lo": [
+        {
+            "branch_name": "Khách sạn Hoa đồng Tiền",
+            "address": "Số 76 Đường Bình Minh, thị xã cửa lò, tỉnh Nghệ An"
+        }
+    ],
+    "thi-xa-thai-hoa": [
+        {
+            "branch_name": "PGD Thái Hòa",
+            "address": "Số 68 đường Nguyễn Trãi, thị xã Thái Hòa, tỉnh Nghệ An"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "huyen-vinh-tuong": [
+        {
+            "branch_name": "PGD Thổ Tang",
+            "address": "Thị trấn Thổ Tang, huyện Vĩnh Tường, tỉnh Vĩnh Phúc"
+        }
+    ],
+    "huyen-yen-lac": [
+        {
+            "branch_name": "PGD Yên Lạc",
+            "address": "thị trấn Yên Lạc, huyện Yên Lạc, tỉnh Vĩnh Phúc"
+        }
+    ],
+    "thanh-pho-vinh-yen": [
+        {
+            "branch_name": "Chi nhánh Vĩnh Phúc",
+            "address": "Số 392A đường Mê Linh, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+        },
+        {
+            "branch_name": "PGD Hà Tiên",
+            "address": "Khu đô thị Hà Tiên, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc"
+        },
+        {
+            "branch_name": "PGD Vĩnh Yên",
+            "address": "Số 92 đường Ngô Quyền - Phường Ngô Quyền - TP.Vĩnh Yên - Tỉnh Vĩnh Phúc"
+        }
+    ],
+    "thi-xa-phuc-yen": [
+        {
+            "branch_name": "PGD  Phúc Yên",
+            "address": "Tòa nhà Hoài Nam - SN 06, Tổ 8, đường Hai Bà Trưng, phường Hùng Vương, TX Phúc Yên, tỉnh Vĩnh Phúc"
+        }
+    ]
+}

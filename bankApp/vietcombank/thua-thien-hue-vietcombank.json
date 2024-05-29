@@ -1,0 +1,28 @@
+{
+    "thanh-pho-hue": [
+        {
+            "branch_name": "Chi nhánh Huế",
+            "address": "78 Hùng Vương, thành phố Huế, tỉnh Thừa Thiên Huế"
+        },
+        {
+            "branch_name": "PGD số 1",
+            "address": "155 Trần Hưng Đạo, thành phố Huế, tỉnh Thừa Thiên Huế"
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "2A Hùng Vương, thành phố Huế, tỉnh Thừa Thiên Huế"
+        },
+        {
+            "branch_name": "PGD Mai Thúc Loan",
+            "address": "67 Mai Thúc Loan, thành phố Huế, tỉnh Thừa Thiên Huế"
+        },
+        {
+            "branch_name": "PGD Phạm Văn Đồng",
+            "address": "Lô 9 đường Phạm Văn Đồng, thành phố Huế, tỉnh Thừa Thiên Huế"
+        },
+        {
+            "branch_name": "PGD Bến Ngự",
+            "address": "Số 48F Nguyễn Huệ,phường Vĩnh Ninh thành phố Huế"
+        }
+    ]
+}

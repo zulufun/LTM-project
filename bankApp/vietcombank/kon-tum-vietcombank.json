@@ -1,0 +1,26 @@
+{
+    "huyen-ngoc-hoi": [
+        {
+            "branch_name": "PGD Ngọc Hồi",
+            "address": "957 Hùng Vương - Huyện Ngọc Hồi - Tỉnh Kon Tum"
+        }
+    ],
+    "huyen-dak-ha": [
+        {
+            "branch_name": "PGD Đắk Hà",
+            "address": "Thị trấn Đắk Hà, huyện Đắk Hà, tỉnh Kon Tum"
+        }
+    ],
+    "huyen-dak-to": [
+        {
+            "branch_name": "Chi nhánh Kon Tum",
+            "address": "Số 348 Trần Hưng Đạo, thành phố Kon Tum, tỉnh Kon Tum"
+        }
+    ],
+    "thanh-pho-kon-tum": [
+        {
+            "branch_name": "PGD Trần Phú",
+            "address": "Số 578 đường Trần Phú, thành phố Kon Tum, tỉnh Kon Tum"
+        }
+    ]
+}

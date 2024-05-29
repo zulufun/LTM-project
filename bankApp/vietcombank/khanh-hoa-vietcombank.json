@@ -1,0 +1,46 @@
+{
+    "huyen-cam-lam": [
+        {
+            "branch_name": "PGD Cam Đức",
+            "address": "Số 379 đường Trường Chinh, thị trấn Cam Đức, huyện Cam Lâm, tỉnh Khánh Hòa"
+        }
+    ],
+    "huyen-ninh-hoa": [
+        {
+            "branch_name": "PGD Ninh Hoà",
+            "address": "668 đường 2 tháng 4, tổ dân phố 4, phường Ninh Hiệp, thị xã Ninh Hòa, tỉnh Khánh Hòa"
+        }
+    ],
+    "thanh-pho-cam-ranh": [
+        {
+            "branch_name": "PGD Cam Ranh",
+            "address": "Số 100 đường 22/8 phường Cam Thuận, thành phố Cam Ranh, tỉnh Khánh Hòa"
+        }
+    ],
+    "thanh-pho-nha-trang": [
+        {
+            "branch_name": "Chi nhánh  Khánh Hòa",
+            "address": "Số 17 Quang Trung, phường Vạn Thạnh, thành phố  Nha Trang, Tỉnh  Khánh Hoà."
+        },
+        {
+            "branch_name": "PGD số 1",
+            "address": "Số 99 Phan Bội Châu, phường Vạn Thạnh, thành phố  Nha Trang, Tỉnh Khánh Hoà."
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "Số 08, đường 2/4 phương Vĩnh Hải, thành phố  Nha Trang, Tỉnh  Khánh Hoà"
+        },
+        {
+            "branch_name": "PGD số 3",
+            "address": "Lô 1+2 chung cư 192 Dã Tượng, phường Vĩnh Nguyên, thành phố  Nha Trang, Tỉnh Khánh Hoà."
+        },
+        {
+            "branch_name": "PGD Nguyễn Thiện Thuật",
+            "address": "24C Nguyễn Thiện Thuật , phường Tân Lập, thành phố  Nha Trang, Tỉnh  Khánh Hoà"
+        },
+        {
+            "branch_name": "Chi nhánh Nha Trang",
+            "address": "21 Lê Thành Phương, phường Vạn Thắng, thành phố Nha Trang, tỉnh Khánh Hòa"
+        }
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "quan-ba-dinh": [
+        {
+            "branch_name": "Chi nhánh Ba Đình",
+            "address": "Tòa nhà Handi Resco, 521 Kim Mã, phường Ngọc Khánh, Quận Ba Đình, Hà Nội."
+        },
+        {
+            "branch_name": "PGD số 7",
+            "address": "Số 402 Trần Khát Chân, quận Hai Bà Trưng, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Nam Hà Nội",
+            "address": "Tầng 1,2,3 Tòa nhà"
+        },
+        {
+            "branch_name": "PGD số 5",
+            "address": "Số 55-57 Lê Hồng Phong, phường Điện Biên, Quận Ba Đình, tp Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 6",
+            "address": "55 Hàng Bún, phường Quán Thánh, Quận Ba Đình, Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 8",
+            "address": "84 Văn Cao, phường Liễu Giai, quận Ba Đình, Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 18",
+            "address": "285 Đội Cấn, phường Liễu Giai, Quận Ba Đình"
+        },
+        {
+            "branch_name": "PGD số 22",
+            "address": "172 Ngọc Khánh, phường Ngọc Khánh, Quận Ba Đình"
+        },
+        {
+            "branch_name": "PGD Vạn Phúc",
+            "address": "39 Vạn Phúc, Kim Mã, Hà Nội."
+        },
+        {
+            "branch_name": "PGD Giảng Võ",
+            "address": "Tầng 1, tòa nhà C4, Giảng Võ, Ba Đình, Hà Nội"
+        }
+    ],
+    "quan-bac-tu-liem": [
+        {
+            "branch_name": "PGD Kiều Mai",
+            "address": "Số 86, đường Cầu Diễn, phường Phúc Diễn, quận Bắc Từ Liêm, Hà Nội"
+        },
+        {
+            "branch_name": "PGD Mỹ Đình",
+            "address": "Tầng 1 nhà A, tòa nhà HH4 Sông Đà Twin tower, đường Phạm Hùng,xã Mỹ Đình, huyện Từ Liêm"
+        }
+    ],
+    "quan-hoan-kiem": [
+        {
+            "branch_name": "PGD Pacific Place",
+            "address": "Số 83B Lý Thường Kiệt, phường Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Đào Tấn",
+            "address": "39 Đào Tấn, phường Ngọc Khánh, Quận Ba Đình, Hà Nội."
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "32 Quang Trung, phường Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 3",
+            "address": "Số 31 Hàng Khoai, phường Hàng Mã, quận Hoàn Kiếm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 6",
+            "address": "Số 29 Hàng Phèn, phường Hàng Bồ, quận Hoàn Kiếm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Hoàn Kiếm",
+            "address": "23 Phan Chu Trinh, quận Hoàn Kiếm, thành phố Hà nội"
+        },
+        {
+            "branch_name": "Chi nhánh Sở giao dịch",
+            "address": "31-33 NGÔ QUYỀN, HOÀN KIẾM, HÀ NỘI"
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "120 HÀNG TRỐNG, HÀ NỘI"
+        },
+        {
+            "branch_name": "PGD số 4",
+            "address": "29B Hai Bà Trưng, phường Hàng Bài, quận Hoàn Kiếm"
+        },
+        {
+            "branch_name": "PGD số 10",
+            "address": "110 Cầu Gỗ, phường Hàng Bạc, quận Hoàn Kiếm"
+        },
+        {
+            "branch_name": "PGD số 16",
+            "address": "Tầng 1 Tòa nhà 198 Trần Quang Khải, phường Lý Thái Tổ, Quận Hoàn Kiếm"
+        }
+    ],
+    "quan-hai-ba-trung": [
+        {
+            "branch_name": "PGD Kim Ngưu",
+            "address": "Nhà E6 Quỳnh Mai, phố Kim Ngưu, quận Hai Bà Trưng, thành phố  Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Dịch vụ Khách hàng đặc biệt",
+            "address": "Số 344 Bà Triệu, phường Lê Đại Hành, quận Hai Bà Trưng, TP Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 8",
+            "address": "68 Nguyễn Du, phường Nguyễn Du, quận Hai Bà Trưng, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 10",
+            "address": "Số 51 Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, Tp Hà Nội"
+        },
+        {
+            "branch_name": "PGD Lò Đúc",
+            "address": "125D Lò Đúc, quận Hai Bà Trưng, thành phố Hà nội"
+        },
+        {
+            "branch_name": "PGD Nguyễn An Ninh",
+            "address": "106 Nguyễn An Ninh, quận Hai Bà Trưng, thành phố Hà nội"
+        },
+        {
+            "branch_name": "PGD Bạch Mai",
+            "address": "208 phố Bạch Mai, quận Hai Bà Trưng, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Hoàng Mai",
+            "address": "Tầng 1,2 Tower 1, Times City, 458 Minh Khai, phường Vĩnh Tuy,Q. Hai Bà Trưng, Hà Nội"
+        },
+        {
+            "branch_name": "Chi Nhánh Hoàng Mai",
+            "address": "Tầng 1,2 Tower 1, Times City, 458 Minh Khai, phường Vĩnh Tuy,Q. Hai Bà Trưng, Hà Nội"
+        }
+    ],
+    "quan-cau-giay": [
+        {
+            "branch_name": "PGD Trần Duy Hưng",
+            "address": "148 Trần Duy Hưng, phường Trung Hòa, Quận Cầu Giấy, Hà Nội."
+        },
+        {
+            "branch_name": "PGD số 9",
+            "address": "Số 211 Trung Kính, Quận Cầu Giấy, Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 15",
+            "address": "Số 8 Lô 14A , Khu đô thị mới Trung Yên, phường Trùn Hòa, quận Cầu Giấy"
+        },
+        {
+            "branch_name": "PGD số 14",
+            "address": "Số 8 Lô 1A Khu đô thị Trung Yên, phường Trung Hòa, quận Cầu Giấy, Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Thăng Long",
+            "address": "148 Hoàng Quốc Việt, phường Nghĩa Tân, quận Cầu Giấy, thành phố Hà Nội."
+        },
+        {
+            "branch_name": "PGD Hồ Tùng Mậu",
+            "address": "Số 52 Hồ Tùng Mậu, phường Mai Dịch, Quận Cầu Giấy, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Xuân Thuỷ",
+            "address": "Số 295 đường Trần Đăng Ninh, phường Dịch Vọng, quận Cầu Giấy, HN"
+        },
+        {
+            "branch_name": "PGD Duy Tân",
+            "address": "Tầng 1 Tòa nhà Lotus ,Số 2 phố Duy Tân,phường Dịch Vọng Hậu, Cầu Giấy"
+        }
+    ],
+    "quan-thanh-xuan": [
+        {
+            "branch_name": "PGD số 9",
+            "address": "20 Lê Trọng Tấn, phường Khương Mai, Quận Thanh Xuân, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Thành Công",
+            "address": "Lô 3 Ô 4.1 CC đường Hoàng Đạo Thúy, phường Nhân Chính, quận Thanh Xuân, Hà Nội"
+        },
+        {
+            "branch_name": "PGD Trung Hòa - Nhân Chính",
+            "address": "Tầng1 tòa nhà 18T2 khu đô thị mới Trung Hòa - Nhân Chính, đường Lê Văn Lương,quận Thanh Xuân, Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Thanh Xuân",
+            "address": "448-450 Nguyễn Trãi, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội"
+        }
+    ],
+    "quan-dong-da": [
+        {
+            "branch_name": "PGD Khương Thượng",
+            "address": "P105, A12 Khương Thượng, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Thái Thịnh",
+            "address": "Số 102 phố Thái Thịnh, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Hà Nội",
+            "address": "Tầng 1-5,11B phố Cát Linh, phường Quốc Tử Giám, Quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 4",
+            "address": "Số 36 Hoàng Cầu, phường Ô Chợ Dừa, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 7",
+            "address": "52 Nguyễn Chí Thanh, phường Láng Thượng, Quận Đống Đa"
+        },
+        {
+            "branch_name": "PGD số 11",
+            "address": "Số 93 - 95 Đường Láng, Quận Đống Đa, Thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 17",
+            "address": "Tầng trệt Phòng G01 Tòa nhà Khâm Thiên, số 193 - 195 Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 19",
+            "address": "152 Thụy Khê, phường  Thụy Khê, Quận Đống Đa"
+        },
+        {
+            "branch_name": "PGD số 12",
+            "address": "Số 33 phố Chùa Láng, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Kim Liên Ô Chợ Dừa",
+            "address": "390 Xã Đàn, phường Ô Chợ Dừa quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Thái Hà",
+            "address": "116 Thái Hà, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Láng Hạ",
+            "address": "30 - 32 Láng Hạ, phường Láng Hạ, quận Đống Đa, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Phòng giao dịch số 1",
+            "address": "Số 75 Phố Phương Mai, phường Phương Mai, quận Đống Đa"
+        }
+    ],
+    "quan-tay-ho": [
+        {
+            "branch_name": "PGD Tây Hồ",
+            "address": "62 phố Yên Phụ, phường Yên Phụ, Quận Tây Hồ, Hà Nội."
+        },
+        {
+            "branch_name": "Chi nhánh Tây Hồ",
+            "address": "Số D5B -33 và D5B-35, Lô D5, Khu đấu giá 18,6ha phường Phú Thượng, Quận Tây Hồ"
+        },
+        {
+            "branch_name": "Chi nhánh Tây Hồ",
+            "address": "Số 565 Lạc Long Quân, phường Xuân La, Q.Tây Hồ, TP.Hà Nội"
+        }
+    ],
+    "quan-hoang-mai": [
+        {
+            "branch_name": "PGD Vĩnh Hoàng",
+            "address": "Lô 02- 9A, Khu công nghiệp Quận Hoàng Mai, Phường Hoàng Văn Thụ,Quận Hoàng Mai"
+        },
+        {
+            "branch_name": "PGD số 5",
+            "address": "Khu CC2, Bắc Linh Đàm, quận Hoàng Mai, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Định Công",
+            "address": "Lô CN2 - Khu đô thị Định Công, quận Hoàng Mai, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Kim Đồng",
+            "address": "Số 809 Giải Phóng, quận Hoàng Mai, thành phố Hà Nội"
+        }
+    ],
+    "quan-long-bien": [
+        {
+            "branch_name": "Chi nhánh Chương Dương",
+            "address": "Số 564 Nguyễn Văn Cừ, phường Gia Thụy, quận Long Biên, thành phố Hà Nội."
+        },
+        {
+            "branch_name": "PGD Sài Đồng",
+            "address": "765A Nguyễn Văn Linh, Phường Sài Đồng, Quận Long Biên, Tp Hà Nội"
+        },
+        {
+            "branch_name": "PGD số 11",
+            "address": "Lô số T118, tầng 1 Trung tâm mua sắm AEON Long Biên, phường Long Biên, quận Long Biên, Hà Nội"
+        }
+    ],
+    "quan-ha-dong": [
+        {
+            "branch_name": "Chi nhánh Hà Tây",
+            "address": "Lô HH-03, Điểm tiểu thủ công nghiệp làng nghề Vạn Phúc, phường Vạn Phúc, quận Hà Đông, Hà Nội"
+        },
+        {
+            "branch_name": "PGD Nam Thanh Xuân",
+            "address": "Số 31 Trần Phú, Quận Hà Đông, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Quang Trung",
+            "address": "Số 80 Quang Trung, quận Hà Đông, tp Hà Nội"
+        },
+        {
+            "branch_name": "PGD Tố Hữu",
+            "address": "Lô A4 khu Đấu giá, đường Tố Hữu (Ngã tư Lê Văn Lương kéo dài cũ và đường Vạn Phúc), Hà Đông"
+        },
+        {
+            "branch_name": "Phòng giao dịch Số 2",
+            "address": "Số 44, BT8 Khu đô thị Văn Quán, phường Văn Quán, quận Hà Đông, Thành phố Hà Nội"
+        }
+    ],
+    "huyen-dan-phuong": [
+        {
+            "branch_name": "PGD Đan Phượng",
+            "address": "Thị trấn thương mại Tuấn Quỳnh, thị trấn Phùng, huyện Đan Phượng, Hà Nội"
+        }
+    ],
+    "huyen-gia-lam": [
+        {
+            "branch_name": "PGD Trâu Quỳ",
+            "address": "Số 176 Ngô Xuân Quảng, thị trấn Trâu Quỳ, huyện Gia Lâm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Yên Viên",
+            "address": "Số 455 đường Hà Huy Tập, Thị trấn Yên Viên, Huyện Gia Lâm, TP.Hà Nội"
+        }
+    ],
+    "huyen-soc-son": [
+        {
+            "branch_name": "PGD Sóc Sơn",
+            "address": "Số 31 Quốc lộ 3, tòa nhà Bưu điện trung tâm 4, thị trấn Sóc Sơn, huyện Sóc Sơn, Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Sóc Sơn",
+            "address": "Số nhà 51 đường Quốc Lộ 3, tổ 12, thị trấn Sóc Sơn, huyện Sóc Sơn, Thành phố Hà Nội"
+        }
+    ],
+    "quan-nam-tu-liem": [
+        {
+            "branch_name": "PGD số 1",
+            "address": "Tầng 1-Tòa nhà TVAD-Lô HH4 khu đô thị Mễ Trì Hạ, đường Phạm Hùng, quận Nam Từ Liêm, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "PGD Phạm Hùng",
+            "address": "Số 15 Phạm Hùng, phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội"
+        },
+        {
+            "branch_name": "PGD Lê Văn Lương",
+            "address": "Tầng 1 tòa nhà A1 đường Nguyễn Cơ Thạch, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội"
+        }
+    ],
+    "huyen-dong-anh": [
+        {
+            "branch_name": "Phòng giao dịch Đông Anh",
+            "address": "Tổ 6, thị trấn Đông Anh, huyện Đông Anh, thành phố Hà Nội"
+        },
+        {
+            "branch_name": "Chi nhánh Đông Anh",
+            "address": "Thôn Nghĩa Lại, xã Uy Nỗ, huyện Đông Anh, thành phố Hà Nội"
+        }
+    ]
+}

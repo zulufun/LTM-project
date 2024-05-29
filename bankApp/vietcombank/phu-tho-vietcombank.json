@@ -1,0 +1,18 @@
+{
+    "huyen-phu-ninh": [
+        {
+            "branch_name": "PGD Phù Ninh",
+            "address": "Thị trấn Phong Châu, huyện Phù Ninh, tỉnh Phú Thọ"
+        }
+    ],
+    "thanh-pho-viet-tri": [
+        {
+            "branch_name": "PGD Hùng Vương",
+            "address": "1274 ĐL  Hùng Vương, Phường Gia Cẩm, thành phố Việt Trì, tỉnh Phú Thọ"
+        },
+        {
+            "branch_name": "Chi nhánh Việt Trì",
+            "address": "1606A đường Hùng Vương, phường Gia Cẩm, thành phố Việt Trì, tỉnh Phú Thọ"
+        }
+    ]
+}

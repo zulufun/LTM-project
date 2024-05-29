@@ -1,0 +1,26 @@
+{
+    "huyen-go-dau": [
+        {
+            "branch_name": "PGD Gò Dầu",
+            "address": "Số 9 - 9A, đường Hùng Vương, khu phố Thanh Bình A, thị trấn Gò Dầu, huyện Gò Dầu"
+        }
+    ],
+    "huyen-hoa-thanh": [
+        {
+            "branch_name": "PGD Hòa Thành",
+            "address": "01-03 đường Trương Quyền, khu phố 2, thị trấn Hòa Thành, huyện Hòa Thành, tỉnh Tây Ninh"
+        }
+    ],
+    "huyen-tan-chau": [
+        {
+            "branch_name": "PGD Tân Châu",
+            "address": "Số 12 Hai Bà Trưng, Long Thạnh A, Tân Châu, An Giang"
+        }
+    ],
+    "thanh-pho-tay-ninh": [
+        {
+            "branch_name": "Chi nhánh Tây Ninh.",
+            "address": "Số 313, đường 30/4, khu phố 1, phường 1, thành phố Tây Ninh, tỉnh Tây Ninh."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "huyen-tien-hai": [
+        {
+            "branch_name": "PGD Tiền Hải",
+            "address": "Số 158 - 160 phố Tiểu Hoàng, thị trấn Tiền Hải, tỉnh Thái Bình"
+        }
+    ],
+    "huyen-hung-ha": [
+        {
+            "branch_name": "PGD Hưng Hà",
+            "address": "Khu Nhân Cầu 3, thị trấn Hưng Hà, huyện Hưng Hà, tỉnh Thái Bình"
+        }
+    ],
+    "huyen-dong-hung": [
+        {
+            "branch_name": "PGD Đông Hưng",
+            "address": "Tổ 6, Thị trấn Đông Hưng, Huyện Đông Hưng, Tỉnh Thái Bình"
+        }
+    ],
+    "thanh-pho-thai-binh": [
+        {
+            "branch_name": "Chi nhánh Thái Bình",
+            "address": "Số 75, Phố Lê Lợi, phường Lê Hồng Phong, thành phố Thái Bình, tỉnh Thái Bình"
+        },
+        {
+            "branch_name": "PGD số 2",
+            "address": "Số 166, Đường Nguyễn Thị Minh Khai, Thành phố Thái Bình, Tỉnh Thái Bình"
+        },
+        {
+            "branch_name": "PGD Số 5",
+            "address": "Số 66 Đường Quang Trung, phường Trần Hưng Đạo, thành phố Thái Bình"
+        }
+    ]
+}

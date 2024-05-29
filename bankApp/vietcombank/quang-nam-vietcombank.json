@@ -1,0 +1,46 @@
+{
+    "huyen-nui-thanh": [
+        {
+            "branch_name": "PGD Chu Lai",
+            "address": "thôn Vân Thạch, xã Tam Hiệp, huyện Núi Thành,  tỉnh Quảng Nam"
+        }
+    ],
+    "huyen-duy-xuyen": [
+        {
+            "branch_name": "PGD Duy Xuyên",
+            "address": "Thị trấn Nam Phước, huyện Duy Xuyên, tỉnh Quảng Nam"
+        }
+    ],
+    "huyen-thang-binh": [
+        {
+            "branch_name": "PGD Thăng Bình",
+            "address": "Tổ 5 thị trấn Hà Lam, huyện Thăng Bình, tỉnh Quảng Nam"
+        }
+    ],
+    "huyen-dien-ban": [
+        {
+            "branch_name": "PGD Điện Nam, Điện Ngọc",
+            "address": "KP Cẩm Sa, phường Điện Nam Bắc, thị xã Điện Bàn, tỉnh Quảng Nam"
+        },
+        {
+            "branch_name": "PGD Điện Bàn",
+            "address": "151 Mẹ Thứ, phường Vĩnh Điện, thị xã Điện Bàn, tỉnh Quảng Nam"
+        }
+    ],
+    "thanh-pho-hoi-an": [
+        {
+            "branch_name": "PGD Hội An",
+            "address": "02 Trần Cao Vân, thành phố Hội An, tỉnh Quảng Nam"
+        }
+    ],
+    "thanh-pho-tam-ky": [
+        {
+            "branch_name": "Chi nhánh Quảng Nam",
+            "address": "35 Trần Hưng Đạo, thành phố  Tam Kỳ, tỉnh Quảng Nam"
+        },
+        {
+            "branch_name": "PGD Tam Kỳ",
+            "address": "456 Phan Chu Trinh, thành phố  Tam Kỳ, Quảng Nam"
+        }
+    ]
+}

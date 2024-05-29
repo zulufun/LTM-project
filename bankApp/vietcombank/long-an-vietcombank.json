@@ -1,0 +1,38 @@
+{
+    "huyen-kien-tuong": [
+        {
+            "branch_name": "PGD Kiến Tường",
+            "address": "Số 06 Hùng Vương, phường 1, thị xã Kiến Tường, tỉnh Long An"
+        }
+    ],
+    "huyen-ben-luc": [
+        {
+            "branch_name": "Chi nhánh Long An",
+            "address": "Số 2A, đường Phạm Văn Ngũ, Khu phố 5, Thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An."
+        }
+    ],
+    "huyen-can-giuoc": [
+        {
+            "branch_name": "PGD Cần Giuộc",
+            "address": "Số 12, quốc lộ 50 thị trấn Cần Giuộc, huyện cần Giuộc, tỉnh Long An"
+        }
+    ],
+    "huyen-can-duoc": [
+        {
+            "branch_name": "PGD Cần Đước",
+            "address": "Lô 10A - 11A Khu phố thương mại Khang Gia, thị trấn Cần Đước, huyện Cần Đước, tỉnh Long An"
+        }
+    ],
+    "huyen-duc-hoa": [
+        {
+            "branch_name": "PGD Đức Hoà",
+            "address": "Số 198C đường tỉnh 824, thị trấn Đức Hoà, huyện Đức Hoà, tỉnh Long An"
+        }
+    ],
+    "thanh-pho-tan-an": [
+        {
+            "branch_name": "PGD số 01",
+            "address": "Số 13-15 Đỗ Tường Phong. phường 2, Thành phố Tân An, Long An."
+        }
+    ]
+}

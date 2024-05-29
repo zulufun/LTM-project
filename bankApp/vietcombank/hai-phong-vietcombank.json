@@ -1,0 +1,46 @@
+{
+    "huyen-thuy-nguyen": [
+        {
+            "branch_name": "PGD Thuỷ Nguyên",
+            "address": "Số 1 đường 25 tháng 10, Núi Đèo - Thuỷ Nguyên - Hải Phòng"
+        }
+    ],
+    "quan-hong-bang": [
+        {
+            "branch_name": "PGD Quán Toan",
+            "address": "Số 583 đường Hà Nội, phường Quán Toan, quận Hồng Bàng, thành phố Hải Phòng"
+        },
+        {
+            "branch_name": "Chi nhánh Nam Hải Phòng",
+            "address": "Số 11 Hoàng Diệu, phường Minh Khai, quận Hồng Bàng, Tp. Hải Phòng"
+        }
+    ],
+    "quan-le-chan": [
+        {
+            "branch_name": "PGD Lê Chân",
+            "address": "Số 49+51+53 đường Tô Hiệu, quận Lê Chân, thành phố Hải Phòng"
+        },
+        {
+            "branch_name": "PGD Trần Nguyên Hãn",
+            "address": "Số 268C Trần Nguyên Hãn, quận Lê Chân, TP. Hải Phòng"
+        }
+    ],
+    "quan-ngo-quyen": [
+        {
+            "branch_name": "Chi nhánh Hải Phòng",
+            "address": "Số 275 Lạch Tray, phường Đằng Giang, quận Ngô Quyền, Thành phố Hải Phòng"
+        },
+        {
+            "branch_name": "PGD Phạm Ngũ Lão",
+            "address": "Số 27+29 đường Phạm Ngũ Lão, quận Ngô Quyền, thành phố Hải Phòng"
+        },
+        {
+            "branch_name": "PGD Lê Hồng Phong",
+            "address": "Số 9 Lô 22B, đường Lê Hồng Phong, quận Ngô Quyền, TP Hải Phòng"
+        },
+        {
+            "branch_name": "PGD Lê Lai",
+            "address": "Số 46 Lô 5 Lê Lai, phường Lạc Viên, quận Ngô Quyền, TP Hải Phòng"
+        }
+    ]
+}

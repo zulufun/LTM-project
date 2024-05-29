@@ -1,0 +1,34 @@
+{
+    "huyen-lam-ha": [
+        {
+            "branch_name": "PGD Lâm Hà",
+            "address": "Số 380 khu phố Đồng Tiến, thị trấn Đinh Văn, huyện Lâm Hà, tỉnh Lâm Đồng"
+        }
+    ],
+    "huyen-duc-trong": [
+        {
+            "branch_name": "PGD Đức Trọng",
+            "address": "101 – 103 Trần Hưng Đạo, thị Trấn Liên Nghĩa, huyện Đức Trọng, tỉnh Lâm Đồng"
+        }
+    ],
+    "thanh-pho-bao-loc": [
+        {
+            "branch_name": "PGD Bảo Lộc",
+            "address": "số 08 Lê Thị Pha, phường 1, thành phố Bảo Lộc tỉnh Lâm Đồng"
+        }
+    ],
+    "thanh-pho-da-lat": [
+        {
+            "branch_name": "Chi nhánh Đà Lạt",
+            "address": "Số 33 Nguyễn Văn Cừ, phường 1, thành phố Đà Lạt, tỉnh Lâm Đồng"
+        },
+        {
+            "branch_name": "Chi nhánh Đà Lạt - Địa chỉ 2",
+            "address": "Số 6 Nguyễn Thị Minh Khai, phường 1, thành phố Đà Lạt, tỉnh Lâm Đồng"
+        },
+        {
+            "branch_name": "PGD Hòa Bình",
+            "address": "27 Khu Hòa Bình, phường 1, thành phố Đà Lạt, tỉnh Lâm Đồng"
+        }
+    ]
+}
